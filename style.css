@@ -68,7 +68,7 @@ nav {
 }
 
 .card1 {
-    background: url("../assets/card1.jpeg");
+    background: url("./assets/card1.jpeg");
     height: 150px;
     width: 100px;
     background-size: cover;
@@ -77,7 +77,7 @@ nav {
 }
 
 .card2 {
-    background: url("../assets/card2.jpeg");
+    background: url("./assets/card2.jpeg");
     height: 150px;
     width: 100px;
     background-size: cover;
@@ -86,7 +86,7 @@ nav {
 }
 
 .card3 {
-    background: url("../assets/card3.jpeg");
+    background: url("./assets/card3.jpeg");
     height: 150px;
     width: 100px;
     background-size: cover;
@@ -95,7 +95,7 @@ nav {
 }
 
 .card4 {
-    background: url("../assets/card4.jpeg");
+    background: url("./assets/card4.jpeg");
     height: 150px;
     width: 100px;
     background-size: cover;
@@ -104,7 +104,7 @@ nav {
 }
 
 .card5 {
-    background: url("../assets/card5.jpeg");
+    background: url("./assets/card5.jpeg");
     height: 150px;
     width: 100px;
     background-size: cover;
@@ -113,7 +113,7 @@ nav {
 }
 
 .card6 {
-    background: url("../assets/card6.jpeg");
+    background: url("./assets/card6.jpeg");
     height: 150px;
     width: 100px;
     background-size: cover;
@@ -122,7 +122,7 @@ nav {
 }
 
 .card7 {
-    background: url("../assets/card7.jpeg");
+    background: url("./assets/card7.jpeg");
     height: 150px;
     width: 100px;
     background-size: cover;
@@ -131,7 +131,7 @@ nav {
 }
 
 .card8 {
-    background: url("../assets/card8.jpeg");
+    background: url("./assets/card8.jpeg");
     height: 150px;
     width: 100px;
     background-size: cover;
@@ -140,7 +140,7 @@ nav {
 }
 
 .card9 {
-    background: url("../assets/card9.jpeg");
+    background: url("./assets/card9.jpeg");
     height: 150px;
     width: 100px;
     background-size: cover;
@@ -149,7 +149,7 @@ nav {
 }
 
 .card10 {
-    background: url("../assets/card10.jpeg");
+    background: url("./assets/card10.jpeg");
     height: 150px;
     width: 100px;
     background-size: cover;
@@ -158,7 +158,7 @@ nav {
 }
 
 .card11 {
-    background: url("../assets/card11.jpeg");
+    background: url("./assets/card11.jpeg");
     height: 150px;
     width: 100px;
     background-size: cover;
@@ -167,7 +167,7 @@ nav {
 }
 
 .card12 {
-    background: url("../assets/card12.jpeg");
+    background: url("./assets/card12.jpeg");
     height: 150px;
     width: 100px;
     background-size: cover;
@@ -176,7 +176,7 @@ nav {
 }
 
 .card13 {
-    background: url("../assets/card13.jpeg");
+    background: url("./assets/card13.jpeg");
     height: 150px;
     width: 100px;
     background-size: cover;
@@ -185,7 +185,7 @@ nav {
 }
 
 .card14 {
-    background: url("../assets/card14.jpeg");
+    background: url("./assets/card14.jpeg");
     height: 150px;
     width: 100px;
     background-size: cover;
@@ -354,7 +354,7 @@ nav {
 }
 
 .fcard-img1 {
-    background: url("/assets/fcard1.jpg");
+    background: url("./assets/fcard1.jpg");
     height: 350px;
     width: 240px;
     margin-left: 4px;
@@ -368,7 +368,7 @@ nav {
 }
 
 .fcard-img2 {
-    background: url("/assets/fcard2.jpg");
+    background: url("./assets/fcard2.jpg");
     height: 350px;
     width: 240px;
     margin-left: 4px;
@@ -382,7 +382,7 @@ nav {
 }
 
 .fcard-img3 {
-    background: url("/assets/fcard3.webp");
+    background: url("./assets/fcard3.webp");
     height: 350px;
     width: 240px;
     margin-left: 4px;
@@ -397,7 +397,7 @@ nav {
 }
 
 .fcard-img4 {
-    background: url("/assets/fcard4.jpg");
+    background: url("./assets/fcard4.jpg");
     height: 350px;
     width: 240px;
     margin-left: 4px;
@@ -411,7 +411,7 @@ nav {
 }
 
 .fcard-img5 {
-    background: url("/assets/fcard5.jpg");
+    background: url("./assets/fcard5.jpg");
     height: 350px;
     width: 240px;
     margin-left: 4px;
@@ -425,7 +425,7 @@ nav {
 }
 
 .fcard-img6 {
-    background: url("/assets/fcard6.jpg");
+    background: url("./assets/fcard6.jpg");
     height: 350px;
     width: 240px;
     margin-left: 4px;
@@ -439,7 +439,7 @@ nav {
 }
 
 .fcard-img7 {
-    background: url("/assets/fcard7.webp");
+    background: url("./assets/fcard7.webp");
     height: 350px;
     width: 240px;
     margin-left: 4px;
@@ -453,7 +453,7 @@ nav {
 }
 
 .fcard-img8 {
-    background: url("/assets/fcard8.webp");
+    background: url("./assets/fcard8.webp");
     height: 350px;
     width: 240px;
     margin-left: 4px;
@@ -467,7 +467,7 @@ nav {
 }
 
 .fcard-img9 {
-    background: url("/assets/fcard9.webp");
+    background: url("./assets/fcard9.webp");
     height: 350px;
     width: 240px;
     margin-left: 4px;
@@ -482,7 +482,7 @@ nav {
 }
 
 .fcard-img10 {
-    background: url("/assets/fcard10.webp");
+    background: url("./assets/fcard10.webp");
     height: 350px;
     width: 240px;
     margin-left: 4px;
@@ -497,7 +497,7 @@ nav {
 }
 
 .fcard-img11 {
-    background: url("/assets/fcard11.webp");
+    background: url("./assets/fcard11.webp");
     height: 350px;
     width: 240px;
     margin-left: 4px;
@@ -512,7 +512,7 @@ nav {
 }
 
 .fcard-img12 {
-    background: url("/assets/fcard12.webp");
+    background: url("./assets/fcard12.webp");
     height: 350px;
     width: 240px;
     margin-left: 4px;
@@ -527,7 +527,7 @@ nav {
 }
 
 .fcard-img13 {
-    background: url("/assets/fcard13.webp");
+    background: url("./assets/fcard13.webp");
     height: 350px;
     width: 240px;
     margin-left: 4px;
@@ -542,7 +542,7 @@ nav {
 }
 
 .fcard-img14 {
-    background: url("/assets/fcard14.webp");
+    background: url("./assets/fcard14.webp");
     height: 350px;
     width: 240px;
     margin-left: 4px;
@@ -557,7 +557,7 @@ nav {
 }
 
 .fcard-img15 {
-    background: url("/assets/fcard15.jpg");
+    background: url("./assets/fcard15.jpg");
     height: 350px;
     width: 240px;
     margin-left: 4px;
@@ -572,7 +572,7 @@ nav {
 }
 
 .fcard-img16 {
-    background: url("/assets/fcard16.webp");
+    background: url("./assets/fcard16.webp");
     height: 350px;
     width: 240px;
     margin-left: 4px;
@@ -587,7 +587,7 @@ nav {
 }
 
 .fcard-img17 {
-    background: url("/assets/fcard17.jpg");
+    background: url("./assets/fcard17.jpg");
     height: 350px;
     width: 240px;
     margin-left: 4px;
@@ -602,7 +602,7 @@ nav {
 }
 
 .fcard-img18 {
-    background: url("/assets/fcard18.webp");
+    background: url("./assets/fcard18.webp");
     height: 350px;
     width: 240px;
     margin-left: 4px;
@@ -617,7 +617,7 @@ nav {
 }
 
 .fcard-img19 {
-    background: url("/assets/fcard19.webp");
+    background: url("./assets/fcard19.webp");
     height: 350px;
     width: 240px;
     margin-left: 4px;
@@ -632,7 +632,7 @@ nav {
 }
 
 .fcard-img20 {
-    background: url("/assets/fcard20.webp");
+    background: url("./assets/fcard20.webp");
     height: 350px;
     width: 240px;
     margin-left: 4px;
